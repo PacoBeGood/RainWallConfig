@@ -14,11 +14,11 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/GrabObject.unity
     guid: dc8ccc88355d449c08f71bf1694390bb
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/SnapTurnTeleport.unity
     guid: 726a023dd7c354d4ab0964bee1c763db
   - enabled: 0
-    path: Assets/Scenes/TeleportAreas.unity
+    path: Assets/Scenes/TeleportAreas - Jenga.unity
     guid: 580b00f4f4efa4e37b5111e45e4a6aa9
   - enabled: 0
     path: Assets/Scenes/Room.unity
